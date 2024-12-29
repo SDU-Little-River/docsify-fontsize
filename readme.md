@@ -3,7 +3,7 @@ English | [简体中文](./readme_cn.md)
 Create two buttons in the top left corner that allow users to customize the font size
 ![img.png](img.png)
 
-[示例](https://techmc.wiki/#/)
+[example](https://techmc.wiki/#/)
 
 # Install
 `<script src="//cdn.jsdelivr.net/gh/SDU-Little-River/docsify-fontsize@latest/fontsize.js"></script>`
