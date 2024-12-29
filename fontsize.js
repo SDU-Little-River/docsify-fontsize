@@ -14,7 +14,6 @@ function adjustFontSize(action) {
 }
 
 function applyInitialStyles() {
-    // 从 localStorage 加载保存的字体大小
     const savedSize = localStorage.getItem('font-size');
     if (savedSize) {
         const markdownSection = document.querySelector('.markdown-section#main');
