@@ -1,7 +1,9 @@
 English | [简体中文](./readme_cn.md)
 # Description
+A plugin for [docsify](https://github.com/docsifyjs/docsify)
+
 Create two buttons in the top left corner that allow users to customize the font size
-![img.png](img.png)
+![img.png](img/img.png)
 
 [example](https://techmc.wiki/#/)
 
@@ -9,10 +11,19 @@ Create two buttons in the top left corner that allow users to customize the font
 `<script src="//cdn.jsdelivr.net/gh/SDU-Little-River/docsify-fontsize@latest/fontsize.js"></script>`
 
 # NightModeCompatible
+
 Compatible with the [docsify-dark-switcher plugin](https://github.com/LIGMATV/docsify-dark-switcher), if you want to use the following styles, please import the darkmode.css in the repository
 
 `<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/SDU-Little-River/docsify-fontsize@latest/darkmode.css">`
 
-| light                   | dark                    |
-|-------------------------|-------------------------|
-| ![img_2.png](img_2.png) | ![img_1.png](img_1.png) |
+
+| light              | dark               |
+|--------------------|--------------------|
+| ![](img/img_4.png) | ![](img/img_5.png) |
+
+## 兼容性修复
+Fixed a bug,The [docsify-dark-switcher](https:github.comLIGMATVdocsify-dark-switcher) plugin was not compatible with night mode
+
+| origin             | fixed              |
+|--------------------|--------------------|
+| ![](img/img_6.png) | ![](img/img_7.png) |
