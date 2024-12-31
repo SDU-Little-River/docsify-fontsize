@@ -21,8 +21,8 @@ Compatible with the [docsify-dark-switcher plugin](https://github.com/LIGMATV/do
 |--------------------|--------------------|
 | ![](img/img_4.png) | ![](img/img_5.png) |
 
-## 兼容性修复
-Fixed a bug,The [docsify-dark-switcher](https:github.comLIGMATVdocsify-dark-switcher) plugin was not compatible with night mode
+## compatibilityFix
+Fix a bug,The [docsify-dark-switcher](https:github.comLIGMATVdocsify-dark-switcher) plugin was not compatible with night mode
 
 | origin             | fixed              |
 |--------------------|--------------------|
